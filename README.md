@@ -2,7 +2,7 @@
 
 Simple python script to send notifications to Slack using `attachments: []` so that they look pretty in the chat.
 
-Only tested in Zabbix 3.4 on Ubuntu 14.04
+Only tested in Zabbix 3.4 on Ubuntu 14.04 and 16.04
 
 ## Setup
 Put your Slack webhook and url to your Zabbix install in the top of the python script. Lines 9 and 10. You can change the username the messages will seem to come from here too.
